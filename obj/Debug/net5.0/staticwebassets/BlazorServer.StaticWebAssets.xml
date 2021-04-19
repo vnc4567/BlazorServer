@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\benaz\source\repos\BlazorServer\BlazorServer\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Fluxor.Blazor.Web" Path="C:\Users\benaz\.nuget\packages\fluxor.blazor.web\4.0.0\build\..\staticwebassets\" />
+</StaticWebAssets>
